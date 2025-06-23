@@ -13,8 +13,8 @@ html-math-method:
 author:
   - name: Rizqy Amelia Zein
     orcid: 0000-0001-7840-0299
-    email: amelia.zein@psikologi.unair.ac.id
-    affiliations: Department of Psychology, Universitas Airlangga
+    email: null
+    affiliations: Department of Psychology, Universitas Airlangga || Chair of Social Psychology, LMU Munich
 date: last-modified
 bibliography: refs.json
 ---
@@ -267,6 +267,8 @@ People tend to value highly explanations that align with their prior belief.
 
 Instead, this what I found
 
+![](img/fig1.png)
+
 ::: {.notes}
 
 :::
@@ -274,6 +276,8 @@ Instead, this what I found
 ## Some Empirical Evidence
 
 Instead, this what I found
+
+![](img/fig2.png)
 
 ::: {.notes}
 
