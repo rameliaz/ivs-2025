@@ -27,7 +27,7 @@ Mental illness happen as results from the dynamic interplay of **biological** (g
 
 . . .
 
-Mental illness are **tests from God** that can make us stronger spiritually. One can find the peace through **prayer**, **remembering God**, and **trusting** that difficulties have purpose.
+[Mental illness are **tests from God** that can make us stronger spiritually. One can find the peace through **prayer**, **remembering God**, and **trusting** that difficulties have purpose.]{.alert}
 
 . . . 
 
@@ -69,6 +69,13 @@ Do you still remember how do you [**first learn**]{.alert} that God and oxygen, 
 
 :::::
 
+
+::: {.notes}
+Think about when you did that experiment back in the primary school, where you lighted up a candle and your teacher asked you to deplete the oxygen by covering the candle entirely with a glass. The now dead candle basically shows you that oxygen exists.
+
+Though, we learn about God, Angels, and the afterlife, by going through a bit of different process - we heard stories from our parents, grandparents, your Ustadz and Ustadzah in Taman Pendidikan Al Qur'an and so on and so forth.
+:::
+
 ## How do people acquire scientific and religious explanations?
 
 - Plenty of evidence demonstrates that we naive theories about unobservable entities (e.g., God, bacteria, Angels, mental processes, etc.) primarily through **testimony** [@maScientificReligiousBeliefs2024].
@@ -77,13 +84,7 @@ Do you still remember how do you [**first learn**]{.alert} that God and oxygen, 
   - **Direct experience**: first-hand, observational experience that is independent of others' testimony.
   - **Cultural input**: information we obtain from other individuals of our group and community, both verbally or symbolically.
   
-- Testimony rings hollow if we don't trust the sources, so **trust** here is essential for belief acquisition [@hendriksTrustScienceScience2016].
-
-::: {.notes}
-Think about when you did that experiment back in the primary school, where you lighted up a candle and your teacher asked you to deplete the oxygen by covering the candle entirely with a glass. The now dead candle basically shows you that oxygen exists.
-
-Though, we learn about God, Angels, and the afterlife, by going through a bit of different process - we heard stories from our parents, grandparents, your Ustadz and Ustadzah in Taman Pendidikan Al Qur'an and so on and so forth.
-:::
+- Testimony **won't be relevant** if we don't trust the sources, so **trust** here is essential for belief acquisition [@hendriksTrustScienceScience2016].
 
 ## How do people acquire scientific and religious explanations?
 
@@ -99,6 +100,23 @@ Not only people develop their scientific and religious understanding in the same
 
 - **Need for explanation**: to understand why events occur and how things work, seeking causal accounts that make sense of experiences and observations
 - **Need for control**: to influence outcomes and have agency over one's environment
+
+:::
+
+::: {.column width="40%"}
+![](img/slide1.jpg)
+:::
+
+:::::
+
+## Shared Psychological Functions
+
+::::: columns
+
+::: {.column width="60%"}
+
+Not only people develop their scientific and religious understanding in the same manner, science and religion also satisfy [**similar psychological needs**]{.alert} [@rutjensChapter26Science2020]. Specifically, they fulfill:
+
 - **Need for existential meaning**: to find purpose, significance, and coherence in existence
 
 :::
@@ -109,17 +127,13 @@ Not only people develop their scientific and religious understanding in the same
 
 :::::
 
-::: {.notes}
-
-:::
-
 . . .
 
 If scientific and religious belief are acquired similarly and fulfill the exact same needs, does it mean they are [*psychologically* **competing**]{.alert} for our mental resource?
 
 ## Secularization and Conceptual Change
 
-It's, of course, natural to assume that religious and scientific explanations are competing for our mental resource. 
+It's, of course, **natural to assume** that religious and scientific explanations are competing for our mental resource. 
 
 . . .
 
@@ -176,21 +190,19 @@ People at different ages and different cultures are found to engage in *both* **
 
 ## Explanatory Coexistence
 
-Adults and children in many different cultures are found to be more likely to engage in [**both**]{.alert} scientific and religious explanation rather than with only scientific or religious explanations alone...
+Adults and children in many different cultures are found to be more likely to engage in [**both**]{.alert} scientific and religious/supernatural explanation rather than with **only** scientific or religious explanations alone...
 
 . . .
 
-...most prominently to explain **death**, **illness**, and **origins**[^1] [@legareCoexistenceNaturalSupernatural2012; @legareBewitchmentBiologyBoth2008].
+...most prominently to explain **death**, **illness**, and **origins** (e.g., *Why do people die? Why do people get sick? Where do we come from?*) [@legareCoexistenceNaturalSupernatural2012; @legareBewitchmentBiologyBoth2008].
 
 . . .
 
-This coexistence is observed even when scientific literacy is present and salient [@haimilaSupernaturalBeliefScientific2024].
+This coexistence is observed even when **scientific literacy** is **present** and **salient** [@haimilaSupernaturalBeliefScientific2024].
 
 . . .
 
-According to explanatory coexistence hypothesis, individuals combine scientific and religious explanations by applying different 'frameworks' with varying levels of integration.
-
-[^1] e.g., Why do people die? Why do people get sick? Where do we come from (and are heading to)?
+According to explanatory coexistence hypothesis, individuals use scientific and religious explanations by applying different **'frameworks'** with varying levels of integration.
 
 ::: {.notes}
 
@@ -200,9 +212,9 @@ According to explanatory coexistence hypothesis, individuals combine scientific 
 
 These frameworks are:
 
-- **Target-dependent thinking**: using sci and rel for addressing **different aspects** of a phenomenon
-- **Synthetic thinking**: **partially** integrate sci and rel by loosely combining them
-- **Integrative thinking**: **fully** integrate sci and rel into a unified, coherent explanation
+- **Target-dependent thinking**: using sci and rel for addressing [**different aspects**]{.alert} of a phenomenon
+- **Synthetic thinking**: [**partially**]{.alert} integrate sci and rel by loosely combining them
+- **Integrative thinking**: [**fully**]{.alert} integrate sci and rel into a unified, coherent explanation
 
 ::: {.notes}
 Examples:
@@ -215,7 +227,7 @@ Examples:
 
 :::{.callout-warning}
 
-If scientific and religious beliefs are competing for our mental resources, [**why do they coexist**]{.alert} as observed by explanatory coexistence literature?
+If scientific and religious beliefs are *competing* for our mental resources, [**why do they coexist**]{.alert} as observed by explanatory coexistence literature?
 
 :::
 
@@ -229,41 +241,53 @@ Some people argue that the pervasiveness of religious beliefs in the face of sci
 
 ## Functional Differentiation
 
-The pervasiveness of religious beliefs indicate that they **serve different roles**, thus people apply different rules when processing scientific and religious explanations.
+The pervasiveness of religious beliefs indicate that they **serve different roles**, thus people apply **different rules** when processing scientific and religious explanations.
 
 . . . 
 
-Lombrozo and Davoodi: Science for epistemic purposes ('*to know*'), religion for non-epistemic purposes (e.g., moral, social, power, status) [@davoodiExplainingExistentialScientific2022].
+Science for epistemic purposes ('*to know*'), religion for non-epistemic purposes (e.g., moral, social, power, status) [@davoodiExplainingExistentialScientific2022].
 
 . . .
 
-Van Leeuwen: factual (scientific) beliefs are involuntarily formed in response to evidence and evaluated based on truth-bearing quality, while religious credence is voluntarily chosen, context-dependent, and evaluated based on identity and normative values rather than evidence.
+Factual (scientific) beliefs are **involuntarily formed** in response to **evidence** and evaluated based on **truth-bearing quality**, while religious credence is **voluntarily chosen**, **context-dependent**, and evaluated based on **identity** and **normative values** rather than evidence [@vanleeuwenReligiousCredenceNot2014].
 
 . . .
 
-Religious explanations have a lower evidentiary standard [@lobatoReligiosityPredictsEvidentiary2020].
+Religious explanations have **a lower evidentiary standard** [@lobatoReligiosityPredictsEvidentiary2020].
 
 ::: {.notes}
 
 :::
 
-## Some Empirical Evidence
+## Some Early Empirical Evidence
 
-I did an experiment involving 719 German participants, where participants were presented with scientific and religious explanations of three incidents: flood, climate crisis, and war.
-
-. . .
-
-Participants then indicated to what extent they felt that each of these explanations useful.
+We did an experiment involving **719 German participants**, where participants were presented with scientific and religious explanations of three incidents: **flood, climate crisis, and war**.
 
 . . .
 
-I was testing a motivated reasoning hypothesis: religious participants would rated religious (vs. scientific) explanations as having higher utility, while non-religious people would indicate that scientific (vs. religious) explanation as being more useful.
+Participants then indicated to what extent they thought that each of these explanations useful.
+
+. . .
+
+We were testing **a motivated reasoning hypothesis**: religious participants would rated religious (vs. scientific) explanations as having higher utility, while non-religious people would indicate that scientific (vs. religious) explanation as being more useful.
 
 ::: {.notes}
 People tend to value highly explanations that align with their prior belief.
 :::
 
-## Some Empirical Evidence
+## Some Early Empirical Evidence
+
+*"Throughout history, human civilization has faced enormous collective adversity, including violent war. Millions of people have died, been displaced, and others have been indirectly affected by the devastating effects of violent war. “Why are there so many violent wars in the world?” you may ask. Below are plausible explanation(s) for the causes of violent war. Please read them carefully."*
+
+. . . 
+
+[Research on intergroup relations shows that collective memories of past conflicts, injustices, or humiliations can fuel war. When societies or groups focus on these historical grievances, they may seek revenge or retribution, perpetuating cycles of violence.]{.alert}
+
+. . .
+
+Although God teaches peace and reconciliation, He also allows wars as a means of restoring justice. People must be punished for some wrongdoings and are therefore allowed to punish each other. Therefore, war is something that is ultimately willed by God.
+
+## Some Early Empirical Evidence
 
 Instead, this what I found
 
@@ -273,7 +297,7 @@ Instead, this what I found
 
 :::
 
-## Some Empirical Evidence
+## Some Early Empirical Evidence
 
 Instead, this what I found
 
@@ -285,10 +309,10 @@ Instead, this what I found
 
 ## What does this implicate?
 
-- The motivated reasoning effect is asymmetry - only religious explanations are affected by religiosity.
-- Scientific explanations are virtually intact - religiosity didn't matter when participants were asked to rate their perceived utility.
-- Scientific explanations enjoy a kind of universal acceptance, while religious explanations don't.
-- This explains why scientific and religious explanations coexist.
+- The motivated reasoning effect is **asymmetry** - only religious explanations are affected by religiosity.
+- Scientific explanations are **virtually intact** - **religiosity didn't matter** when participants were asked to rate their perceived utility.
+- Scientific explanations enjoy a kind of **universal acceptance**, while religious explanations don't.
+- This explains why scientific and religious explanations **coexist**.
 
 ::: {.notes}
 
@@ -301,13 +325,10 @@ Instead, this what I found
   - People apply **different rules** to scientific and religious beliefs when processing these two types of explanations.
   - Religious/supernatural beliefs, therefore, **cannot be completely replaced** by and **don't hinder** scientific understanding.
 
-- People may be able to maximize the benefit of upholding both belief system, especially to their well-being, only with a condition that they construe that science and religion are *not* in conflict [@priceScienceReligionWorld2024].
-
-
 ## Summary
 
 - Testimony is central to both scientific and religious belief acquisition, and **testimony doesn't work without trust** [@hendriksTrustScienceScience2016]. 
-- How can we then **foster trust in the experts** for providing the public with scientific information useful for making decisions in many aspects of our life? [@altenmullerWhenResearchMesearch2021]
+- How can we then **foster trust in the experts** for providing the public with scientific information useful for making decisions in many aspects of our life? [@altenmullerWhenResearchMesearch2021; @altenmullerScienceCommunicationGets2023]
 
 ::: {.notes}
 
