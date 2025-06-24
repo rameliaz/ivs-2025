@@ -41,7 +41,7 @@ Some people may be convinced that it's [**one explanation against another**]{.al
 
 :::{.callout-warning}
 
-This presentation, however, won't dig deeper into whether or not these two types of explanations [**logically or illogically compatible**]{.alert}, its [**truthfulness**]{.alert} quality, or [**accuracy**]{.alert} of scientific and religious beliefs.
+This presentation, however, won't dig deeper into whether or not these two types of explanations [**logically or illogically compatible**]{.alert}, its [**truthfulness**]{.alert} quality, or [**accuracy**]{.alert}.
 
 :::
 
@@ -84,7 +84,7 @@ Though, we learn about God, Angels, and the afterlife, by going through a bit of
   - **Direct experience**: first-hand, observational experience that is independent of others' testimony.
   - **Cultural input**: information we obtain from other individuals of our group and community, both verbally or symbolically.
   
-- Testimony **won't be relevant** if we don't trust the sources, so **trust** here is essential for belief acquisition [@hendriksTrustScienceScience2016].
+- Testimony **don't matter** if we don't trust the sources, so **trust** here is essential for belief acquisition [@hendriksTrustScienceScience2016].
 
 ## How do people acquire scientific and religious explanations?
 
@@ -185,7 +185,7 @@ While scientists are **less likely** to be religious than the general population
 People at different ages and different cultures are found to engage in *both* **scientific and religious** explanations to explain various phenomena, even with or without scientific understanding. In psychology, we called this phenomenon [**explanatory coexistence**]{.alert}.
 
 ::: {.notes}
-
+Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians believe that belief in God is important to be moral and have
 :::
 
 ## Explanatory Coexistence
@@ -277,7 +277,7 @@ People tend to value highly explanations that align with their prior belief.
 
 ## Some Early Empirical Evidence
 
-*"Throughout history, human civilization has faced enormous collective adversity, including violent war. Millions of people have died, been displaced, and others have been indirectly affected by the devastating effects of violent war. “Why are there so many violent wars in the world?” you may ask. Below are plausible explanation(s) for the causes of violent war. Please read them carefully."*
+*"Throughout history, human civilization has faced enormous collective adversity, including violent war. Millions of people have died, been displaced, and others have been indirectly affected by the devastating effects of violent war. “Why are there so many violent wars in the world?” you may ask. Below are plausible explanation(s) for the causes of violent war."*
 
 . . . 
 
