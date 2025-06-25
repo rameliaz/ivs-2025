@@ -185,7 +185,7 @@ While scientists are **less likely** to be religious than the general population
 People at different ages and different cultures are found to engage in *both* **scientific and religious** explanations to explain various phenomena, even with or without scientific understanding. In psychology, we called this phenomenon [**explanatory coexistence**]{.alert}.
 
 ::: {.notes}
-Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians believe that belief in God is important to be moral and have
+Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians believe that belief in God is important to be moral and have good values.
 :::
 
 ## Explanatory Coexistence
@@ -289,7 +289,7 @@ Although God teaches peace and reconciliation, He also allows wars as a means of
 
 ## Some Early Empirical Evidence
 
-Instead, this what I found
+Instead, this what we found
 
 ![](img/fig1.png)
 
@@ -299,7 +299,7 @@ Instead, this what I found
 
 ## Some Early Empirical Evidence
 
-Instead, this what I found
+Instead, this what we found
 
 ![](img/fig2.png)
 
