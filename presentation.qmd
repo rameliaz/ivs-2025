@@ -1,12 +1,13 @@
 ---
 title: Can scientific and religious explanations coexist?
 title-slide-attributes:
-    data-background-image: /img/cov.jpg
+    data-background-image: img/cov.jpg
     data-background-size: contain
 subtitle: From Conceptual Change to Explanatory Coexistence
 format: 
   clean-revealjs:
     incremental: true
+    embed-resources: true
 html-math-method:
   method: mathjax
   url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
@@ -212,9 +213,9 @@ According to explanatory coexistence hypothesis, individuals use scientific and 
 
 These frameworks are:
 
-- **Target-dependent thinking**: using sci and rel for addressing [**different aspects**]{.alert} of a phenomenon
-- **Synthetic thinking**: [**partially**]{.alert} integrate sci and rel by loosely combining them
-- **Integrative thinking**: [**fully**]{.alert} integrate sci and rel into a unified, coherent explanation
+- **Target-dependent thinking**: using scientific and religious explanations for addressing [**different aspects**]{.alert} of a phenomenon
+- **Synthetic thinking**: [**partially**]{.alert} integrate scientific and religious explanations by loosely combining them
+- **Integrative thinking**: [**fully**]{.alert} integrate scientific and religious explanation into a unified, coherent explanation
 
 ::: {.notes}
 Examples:
@@ -259,7 +260,7 @@ Religious explanations have **a lower evidentiary standard** [@lobatoReligiosity
 
 :::
 
-## Some Early Empirical Evidence
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
 
 We did an experiment involving **719 German participants**, where participants were presented with scientific and religious explanations of three incidents: **flood, climate crisis, and war**.
 
@@ -275,7 +276,7 @@ We were testing **a motivated reasoning hypothesis**: religious participants wou
 People tend to value highly explanations that align with their prior belief.
 :::
 
-## Some Early Empirical Evidence
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
 
 *"Throughout history, human civilization has faced enormous collective adversity, including violent war. Millions of people have died, been displaced, and others have been indirectly affected by the devastating effects of violent war. “Why are there so many violent wars in the world?” you may ask. Below are plausible explanation(s) for the causes of violent war."*
 
@@ -287,7 +288,7 @@ People tend to value highly explanations that align with their prior belief.
 
 Although God teaches peace and reconciliation, He also allows wars as a means of restoring justice. People must be punished for some wrongdoings and are therefore allowed to punish each other. Therefore, war is something that is ultimately willed by God.
 
-## Some Early Empirical Evidence
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
 
 Instead, this what we found
 
@@ -297,7 +298,7 @@ Instead, this what we found
 
 :::
 
-## Some Early Empirical Evidence
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
 
 Instead, this what we found
 
@@ -334,7 +335,7 @@ Instead, this what we found
 
 :::
 
-## Don't miss out the next session!
+## Don't miss out the next session! {.hidden}
 
 ![](img/marlene.png)
 
