@@ -335,6 +335,11 @@ Instead, this what we found
 
 :::
 
+## References
+
+::: {#refs}
+:::
+
 ## Don't miss out the next session! {.hidden}
 
 ![](img/marlene.png)
@@ -343,9 +348,4 @@ Instead, this what we found
 
 Marlene will talk about a very important and timely topic in the face of science denial risks. What can social psychology do to alleviate harmful science skepticism? 
 
-:::
-
-## References
-
-::: {#refs}
 :::
