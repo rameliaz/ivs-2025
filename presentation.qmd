@@ -1,7 +1,7 @@
 ---
 title: Can scientific and religious explanations coexist?
 title-slide-attributes:
-    data-background-image: img/cov.jpg
+    data-background-image: img/background.png
     data-background-size: contain
 subtitle: From Conceptual Change to Explanatory Coexistence
 format: 
@@ -15,14 +15,14 @@ author:
   - name: Rizqy Amelia Zein
     orcid: 0000-0001-7840-0299
     email: null
-    affiliations: Department of Psychology, Universitas Airlangga || Chair of Social Psychology, LMU Munich
+    affiliations: Chair of Social Psychology - Ludwig-Maximilians-Universität München, Department of Psychology - Universitas Airlangga
 date: last-modified
 bibliography: refs.json
 ---
 
-## Let us consider two explanations
+## Let us consider two explanations {background-image="img/background.png" background-size="contain"}
 
-## Let us consider two explanations
+## Let us consider two explanations {background-image="img/background.png" background-size="contain"}
 
 Mental illness happen as results from the dynamic interplay of **biological** (genetics, neurobiology), **psychological** (personality, coping styles), and **social risks** (relationships, trauma, socioeconomic status). **Medication** and **psychotherapy** can help restore this balance.
 
@@ -38,7 +38,7 @@ Which one do you personally think more [**convincing**]{.alert} or [**most usefu
 
 Some people may be convinced that it's [**one explanation against another**]{.alert}, but for others, the answer can be less straightforward.
 
-## Desiderata
+## Desideratum {background-image="img/background.png" background-size="contain"}
 
 :::{.callout-warning}
 
@@ -54,7 +54,7 @@ Rather, and more interestingly, what does it mean to [**believe**]{.alert} in sc
 
 :::
 
-## How do people acquire scientific and religious explanations?
+## How do people acquire scientific and religious explanations? {background-image="img/background.png" background-size="contain"}
 
 ::::: columns
 
@@ -77,7 +77,7 @@ Think about when you did that experiment back in the primary school, where you l
 Though, we learn about God, Angels, and the afterlife, by going through a bit of different process - we heard stories from our parents, grandparents, your Ustadz and Ustadzah in Taman Pendidikan Al Qur'an and so on and so forth.
 :::
 
-## How do people acquire scientific and religious explanations?
+## How do people acquire scientific and religious explanations? {background-image="img/background.png" background-size="contain"}
 
 - Plenty of evidence demonstrates that we naive theories about unobservable entities (e.g., God, bacteria, Angels, mental processes, etc.) primarily through **testimony** [@maScientificReligiousBeliefs2024].
 
@@ -87,11 +87,11 @@ Though, we learn about God, Angels, and the afterlife, by going through a bit of
   
 - Testimony **don't matter** if we don't trust the sources, so **trust** here is essential for belief acquisition [@hendriksTrustScienceScience2016].
 
-## How do people acquire scientific and religious explanations?
+## How do people acquire scientific and religious explanations? {background-image="img/background.png" background-size="contain"}
 
 When acquiring scientific explanations, cultural input is much less central, rendering individuals **more confident** with their **scientific** than [**religious**]{.alert} beliefs [@harrisBeliefsChildrenAdults2021].
 
-## Shared Psychological Functions
+## Shared Psychological Functions {background-image="img/background.png" background-size="contain"}
 
 ::::: columns
 
@@ -110,7 +110,7 @@ Not only people develop their scientific and religious understanding in the same
 
 :::::
 
-## Shared Psychological Functions
+## Shared Psychological Functions {background-image="img/background.png" background-size="contain"}
 
 ::::: columns
 
@@ -132,7 +132,7 @@ Not only people develop their scientific and religious understanding in the same
 
 If scientific and religious belief are acquired similarly and fulfill the exact same needs, does it mean they are [*psychologically* **competing**]{.alert} for our mental resource?
 
-## Secularization and Conceptual Change
+## Secularization and Conceptual Change {background-image="img/background.png" background-size="contain"}
 
 It's, of course, **natural to assume** that religious and scientific explanations are competing for our mental resource. 
 
@@ -149,7 +149,7 @@ Literature proposes that the competition occurs not only at **individual**, but 
 
 :::
 
-## Secularization and Conceptual Change
+## Secularization and Conceptual Change {background-image="img/background.png" background-size="contain"}
 
 :::{.callout-warning}
 
@@ -169,7 +169,7 @@ We do observe these patterns, at least partially.
 Which means that reflective and critical thinkers are less likely to be religious
 :::
 
-## Secularization and Conceptual Change
+## Secularization and Conceptual Change {background-image="img/background.png" background-size="contain"}
 
 [**BUT...**]{.alert}
 
@@ -189,7 +189,7 @@ People at different ages and different cultures are found to engage in *both* **
 Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians believe that belief in God is important to be moral and have good values.
 :::
 
-## Explanatory Coexistence
+## Explanatory Coexistence {background-image="img/background.png" background-size="contain"}
 
 Adults and children in many different cultures are found to be more likely to engage in [**both**]{.alert} scientific and religious/supernatural explanation rather than with **only** scientific or religious explanations alone...
 
@@ -209,7 +209,7 @@ According to explanatory coexistence hypothesis, individuals use scientific and 
 
 :::
 
-## Explanatory Coexistence
+## Explanatory Coexistence {background-image="img/background.png" background-size="contain"}
 
 These frameworks are:
 
@@ -224,7 +224,7 @@ Examples:
 3. I - when my dad dies, I saw his feet turning different color - maybe that means the soul is being pulled out by the angel from his head
 :::
 
-## Deficient or adaptive?
+## Deficient or adaptive? {background-image="img/background.png" background-size="contain"}
 
 :::{.callout-warning}
 
@@ -240,7 +240,7 @@ Some people argue that the pervasiveness of religious beliefs in the face of sci
 
 :::
 
-## Functional Differentiation
+## Functional Differentiation {background-image="img/background.png" background-size="contain"}
 
 The pervasiveness of religious beliefs indicate that they **serve different roles**, thus people apply **different rules** when processing scientific and religious explanations.
 
@@ -260,7 +260,7 @@ Religious explanations have **a lower evidentiary standard** [@lobatoReligiosity
 
 :::
 
-## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025) {background-image="img/background.png" background-size="contain"}
 
 We did an experiment involving **719 German participants**, where participants were presented with scientific and religious explanations of three incidents: **flood, climate crisis, and war**.
 
@@ -276,7 +276,7 @@ We were testing **a motivated reasoning hypothesis**: religious participants wou
 People tend to value highly explanations that align with their prior belief.
 :::
 
-## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025) {background-image="img/background.png" background-size="contain"}
 
 *"Throughout history, human civilization has faced enormous collective adversity, including violent war. Millions of people have died, been displaced, and others have been indirectly affected by the devastating effects of violent war. “Why are there so many violent wars in the world?” you may ask. Below are plausible explanation(s) for the causes of violent war."*
 
@@ -288,7 +288,7 @@ People tend to value highly explanations that align with their prior belief.
 
 Although God teaches peace and reconciliation, He also allows wars as a means of restoring justice. People must be punished for some wrongdoings and are therefore allowed to punish each other. Therefore, war is something that is ultimately willed by God.
 
-## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025) {background-image="img/background.png" background-size="contain"}
 
 Instead, this what we found
 
@@ -298,7 +298,7 @@ Instead, this what we found
 
 :::
 
-## Some Early Empirical Evidence (Zein & Gollwitzer, 2025)
+## Some Early Empirical Evidence (Zein & Gollwitzer, 2025) {background-image="img/background.png" background-size="contain"}
 
 Instead, this what we found
 
@@ -308,7 +308,7 @@ Instead, this what we found
 Utility ratings of religious explanations vary depending on participants' religiosity.
 :::
 
-## What does this implicate?
+## What does this implicate? {background-image="img/background.png" background-size="contain"}
 
 - The motivated reasoning effect is **asymmetry** - only religious explanations are affected by religiosity.
 - Scientific explanations are **virtually intact** - **religiosity didn't matter** when participants were asked to rate their perceived utility.
@@ -319,14 +319,14 @@ Utility ratings of religious explanations vary depending on participants' religi
 
 :::
 
-## Summary
+## Summary {background-image="img/background.png" background-size="contain"}
 
 - People **can engage meaningfully** in both scientific and religious explanations, because..
   - They are useful for **different purposes**.
   - People apply **different rules** to scientific and religious beliefs when processing these two types of explanations.
   - Religious/supernatural beliefs, therefore, **cannot be completely replaced** by and **don't hinder** scientific understanding.
 
-## Summary
+## Summary {background-image="img/background.png" background-size="contain"}
 
 - Testimony is central to both scientific and religious belief acquisition, and **testimony doesn't work without trust** [@hendriksTrustScienceScience2016]. 
 - How can we then **foster trust in the experts** for providing the public with scientific information useful for making decisions in many aspects of our life? [@altenmullerWhenResearchMesearch2021; @altenmullerScienceCommunicationGets2023]
@@ -335,7 +335,7 @@ Utility ratings of religious explanations vary depending on participants' religi
 
 :::
 
-## References
+## References {background-image="img/background.png" background-size="contain"}
 
 ::: {#refs}
 :::
